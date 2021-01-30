@@ -3,6 +3,6 @@
     { "id": 1, "phone": "+923490429166", "password": "123456789", "user_role": "1"},
      { "id": 2, "phone": "+923490429167", "password": "1234567890", "user_role": "2"},
       { "id": 3, "phone": "+923490429168", "password": "1234567891", "user_role": "3"},
-       { "id": 4, "phone": "+923490429169", "password": "1234567892", "user_role": "2"},
+       { "id": 4, "phone": "+923490429169", "password": "1234567892", "user_role": "2"}
   ]
 }
